@@ -94,19 +94,8 @@ LLM_Deployment/
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
-├── .dockerignore
-├── .gitignore
 ├── README.md
-│
-└── screenshots/
-    ├── docker_images.png
-    ├── docker_build.png
-    ├── docker_run.png
-    ├── swagger_api.png
-    └── generated_response.png
 ```
-
-The `screenshots/` folder is used to store experiment evidence.
 
 The following local/generated files are intentionally excluded from version control:
 
